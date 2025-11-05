@@ -12,8 +12,6 @@
 
 ## Contenido
 
-## Contenido
-
 1. [Objetivo del proyecto](#1-objetivo-del-proyecto)
 2. [Drivers Arquitectónicos](#2-drivers-arquitectónicos)
    - [Escenarios de calidad](#21-escenarios-de-calidad)
@@ -24,11 +22,11 @@
    - [Arquitectura de referencia](#31-arquitectura-de-referencia)
    - [Arquetipo de referencia](#32-arquetipo-de-referencia)
 4. [Diagrama de paquetes](#4-diagrama-de-paquetes)
-   - [4.1 Diagrama de paquetes - Frontend](#41-diagrama-de-paquetes--frontend)
+   - [4.1 Diagrama de paquetes - Frontend](#41-diagrama-de-paquetes----frontend)
 5. [Diagrama de componentes](#5-diagrama-de-componentes)
-   - [5.1 Diagrama de componentes - Frontend](#51-diagrama-de-componentes--frontend)
+   - [5.1 Diagrama de componentes - Frontend](#51-diagrama-de-componentes----frontend)
 6. [Diagrama de secuencia](#6-diagrama-de-secuencia)
-   - [6.1 Diagrama de secuencia — Frontend](#61-diagrama-de-secuencia--frontend)
+   - [6.1 Diagrama de secuencia — Frontend](#61-diagrama-de-secuencia---frontend)
 7. [Diagrama de despliegue](#7-diagrama-de-despliegue)
 
 
